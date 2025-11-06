@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ibm-carbon-salesforce-mcp-server-badge.png)](https://mseep.ai/app/ibm-carbon-salesforce-mcp-server)
+
 # Carbon for Salesforce MCP Server
 
 [![npm version](https://badge.fury.io/js/%40kirtijha%2Fcarbon-salesforce-mcp-server.svg)](https://www.npmjs.com/package/@kirtijha/carbon-salesforce-mcp-server)
