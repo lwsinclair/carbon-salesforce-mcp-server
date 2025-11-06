@@ -1,6 +1,6 @@
 {
   "name": "@kirtijha/carbon-salesforce-mcp-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MCP server for Carbon for Salesforce development. Browse component source code, explore implementation patterns, and get real examples for building Carbon-compliant Salesforce UIs. Supports stdio + HTTP modes.",
   "type": "module",
   "main": "dist/index.js",
